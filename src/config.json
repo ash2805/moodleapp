@@ -1,14 +1,14 @@
 {
-    "app_id": "com.moodle.moodlemobile",
-    "appname": "Moodle Mobile",
-    "desktopappname": "Moodle Desktop",
+    "app_id": "com.eduvita.eduvita",
+    "appname": "Eduvita",
+    "desktopappname": "Eduvita",
     "versioncode": 3920,
-    "versionname": "3.9.2",
+    "versionname": "3.9.10",
     "cache_update_frequency_usually": 420000,
     "cache_update_frequency_often": 1200000,
     "cache_update_frequency_sometimes": 3600000,
     "cache_update_frequency_rarely": 43200000,
-    "default_lang": "en",
+    "default_lang": "en"
     "languages": {
         "ar": "عربي",
         "bg": "Български",
@@ -60,26 +60,15 @@
     },
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
-    "demo_sites": {
-        "student": {
-            "url": "https:\/\/school.moodledemo.net",
-            "username": "student",
-            "password": "moodle"
-        },
-        "teacher": {
-            "url": "https:\/\/school.moodledemo.net",
-            "username": "teacher",
-            "password": "moodle"
-        }
-    },
+    "demo_sites":'',
     "font_sizes": [
         62.5,
         75.89,
         93.75
     ],
     "customurlscheme": "moodlemobile",
-    "siteurl": "",
-    "sitename": "",
+    "siteurl": "https://onlineclass.rgpv.ac.in/",
+    "sitename": "ROLE",
     "multisitesdisplay": "",
     "onlyallowlistedsites": false,
     "skipssoconfirmation": false,
